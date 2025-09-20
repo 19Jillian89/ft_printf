@@ -24,5 +24,10 @@ The goal of this project is to recreate the C printf() function, mimicking its b
 | `%%`      | Prints a percent sign                      |
 
 ---
+## 📄 License
+
+This project is for educational purposes only and is part of the 42 Common Core curriculum.
+
+---
 
 🔗 If you found this project helpful or interesting, consider supporting it by starring ⭐️ or forking.
